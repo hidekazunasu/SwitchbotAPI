@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hoyQDPsV/f14zQWqHYWWwGsWef1bgWUn+hXc2VwbsdtRtQlb6seqK99SvNGdtxT7gjjSB44NTK51Dojb9cMQzw==",
+  "success": true,
+  "projectFilePath": "/home/basil/project/switchbot/webapi/webapi.csproj",
+  "expectedPackageFiles": [
+    "/home/basil/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/basil/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/basil/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/basil/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/basil/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/basil/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
